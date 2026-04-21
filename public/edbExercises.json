@@ -1,0 +1,502 @@
+[
+  {
+    "id": "exr_41n2ha5iPFpN3hEJ",
+    "name": "Bridge - Mountain Climber ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "WAIST",
+    "target": "OBLIQUES",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/EsVOYBdhDN.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2haAabPyN5t8y",
+    "name": "Side Lunge",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "QUADRICEPS, THIGHS",
+    "target": "GLUTEUS MAXIMUS, QUADRICEPS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/RB7NBcf79I.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hadPLLFRGvFk",
+    "name": "Sliding Floor Pulldown on Towel",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "LATISSIMUS DORSI",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/9fW96RFqRZ.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hadQgEEX8wDN",
+    "name": "Triceps Dip",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "TRICEPS, UPPER ARMS",
+    "target": "TRICEPS BRACHII",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MruSDlnk0M.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2havo95Y2QpkW",
+    "name": "Feet and Ankles Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS, TIBIALIS ANTERIOR",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/AwDLoYPc84.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hbdZww1thMKz",
+    "name": "Jump Squat ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "QUADRICEPS, THIGHS",
+    "target": "GLUTEUS MAXIMUS, QUADRICEPS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/YfCTLiECo2.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hbYPY4jLKxW3",
+    "name": "Peroneals Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/AcGb20UoJg.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hc2VrB8ofxrW",
+    "name": "Lying Double Legs Biceps Curl with Towel",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BICEPS, UPPER ARMS",
+    "target": "BICEPS BRACHII",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/sGKkXKxdYy.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hcFJpBvAkXCP",
+    "name": "Seated Row with Towel",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "INFRASPINATUS, TRAPEZIUS UPPER FIBERS, LATISSIMUS DORSI, TERES MINOR, TRAPEZIUS MIDDLE FIBERS, TERES MAJOR",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/XsWkx1qcBC.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hcm5HH6H684G",
+    "name": "Calf Raise from Deficit with Chair Supported",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "GASTROCNEMIUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/po63VThsX2.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hd6SThQhAdnZ",
+    "name": "Chin-ups",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "INFRASPINATUS, LATISSIMUS DORSI, TRAPEZIUS LOWER FIBERS, TERES MINOR, TERES MAJOR, TRAPEZIUS MIDDLE FIBERS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/TLX9vGr1dx.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hd78zujKUEWK",
+    "name": "Single Leg Squat ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "QUADRICEPS, THIGHS",
+    "target": "GLUTEUS MAXIMUS, QUADRICEPS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdCBvmbCPaVE",
+    "name": "Diamond Press",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK, CHEST",
+    "target": "PECTORALIS MAJOR STERNAL HEAD, PECTORALIS MAJOR CLAVICULAR HEAD, ERECTOR SPINAE",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/6SPVwjalAc.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdkBpqwoDmVq",
+    "name": "Suspended Row",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "INFRASPINATUS, TRAPEZIUS UPPER FIBERS, TRAPEZIUS LOWER FIBERS, TERES MAJOR, TERES MINOR, LATISSIMUS DORSI, TRAPEZIUS MIDDLE FIBERS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/bXwXW2WUCj.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdo2vCtq4F3E",
+    "name": "Right Cross. Boxing",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "SHOULDERS, BICEPS, TRICEPS",
+    "target": "",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/NenhkXpa3a.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdsGcuzs4WrV",
+    "name": "Self Assisted Inverted Pullover",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK, WAIST",
+    "target": "RECTUS ABDOMINIS, LATISSIMUS DORSI",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/n4N7gfo3Ph.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2he2doZNpmXkX",
+    "name": "Ankle - Plantar Flexion - Articulations",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/cnT7tKYHyl.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hek6i3exMARx",
+    "name": "Elbow - Flexion - Articulations",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "UPPER ARMS",
+    "target": "BRACHIALIS, TRICEPS BRACHII, BICEPS BRACHII",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/vIYXc6qul1.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hezAZ6CdkAcM",
+    "name": "Alternate Punching ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "SHOULDERS, TRICEPS, FULL BODY",
+    "target": "DEEP HIP EXTERNAL ROTATORS, LATISSIMUS DORSI, BRACHIALIS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/5XjzsH1SBh.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hfnnXz9shkBi",
+    "name": "Lying Lower Back Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK, HIPS",
+    "target": "ERECTOR SPINAE",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/9w9vjAYwal.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hftBVLiXgtRQ",
+    "name": "Wide Grip Pull-Up",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "LATISSIMUS DORSI",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/KTxTtuwOqD.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hfYD2sH4TRCH",
+    "name": "Hyperextension",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "WAIST",
+    "target": "ERECTOR SPINAE",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/IAiYz72hHZ.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hG9pRT55cGVk",
+    "name": "Calves stretch",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS, GASTROCNEMIUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/UnJNN2dVOJ.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hGbCptD8Nosk",
+    "name": "Neck Side Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "NECK",
+    "target": "STERNOCLEIDOMASTOID",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/OMp0wahtvC.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hGD4omjWVnbS",
+    "name": "Calves Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "GASTROCNEMIUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/b2DBiTv92c.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2ha5iPFpN3hEJ",
+    "name": "Bridge - Mountain Climber ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "WAIST",
+    "target": "OBLIQUES",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/EsVOYBdhDN.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2haAabPyN5t8y",
+    "name": "Side Lunge",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "QUADRICEPS, THIGHS",
+    "target": "GLUTEUS MAXIMUS, QUADRICEPS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/RB7NBcf79I.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hadPLLFRGvFk",
+    "name": "Sliding Floor Pulldown on Towel",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "LATISSIMUS DORSI",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/9fW96RFqRZ.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hadQgEEX8wDN",
+    "name": "Triceps Dip",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "TRICEPS, UPPER ARMS",
+    "target": "TRICEPS BRACHII",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MruSDlnk0M.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2havo95Y2QpkW",
+    "name": "Feet and Ankles Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS, TIBIALIS ANTERIOR",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/AwDLoYPc84.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hbdZww1thMKz",
+    "name": "Jump Squat ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "QUADRICEPS, THIGHS",
+    "target": "GLUTEUS MAXIMUS, QUADRICEPS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/YfCTLiECo2.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hbYPY4jLKxW3",
+    "name": "Peroneals Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/AcGb20UoJg.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hc2VrB8ofxrW",
+    "name": "Lying Double Legs Biceps Curl with Towel",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BICEPS, UPPER ARMS",
+    "target": "BICEPS BRACHII",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/sGKkXKxdYy.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hcFJpBvAkXCP",
+    "name": "Seated Row with Towel",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "INFRASPINATUS, TRAPEZIUS UPPER FIBERS, LATISSIMUS DORSI, TERES MINOR, TRAPEZIUS MIDDLE FIBERS, TERES MAJOR",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/XsWkx1qcBC.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hcm5HH6H684G",
+    "name": "Calf Raise from Deficit with Chair Supported",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "GASTROCNEMIUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/po63VThsX2.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hd6SThQhAdnZ",
+    "name": "Chin-ups",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "INFRASPINATUS, LATISSIMUS DORSI, TRAPEZIUS LOWER FIBERS, TERES MINOR, TERES MAJOR, TRAPEZIUS MIDDLE FIBERS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/TLX9vGr1dx.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hd78zujKUEWK",
+    "name": "Single Leg Squat ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "QUADRICEPS, THIGHS",
+    "target": "GLUTEUS MAXIMUS, QUADRICEPS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdCBvmbCPaVE",
+    "name": "Diamond Press",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK, CHEST",
+    "target": "PECTORALIS MAJOR STERNAL HEAD, PECTORALIS MAJOR CLAVICULAR HEAD, ERECTOR SPINAE",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/6SPVwjalAc.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdkBpqwoDmVq",
+    "name": "Suspended Row",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "INFRASPINATUS, TRAPEZIUS UPPER FIBERS, TRAPEZIUS LOWER FIBERS, TERES MAJOR, TERES MINOR, LATISSIMUS DORSI, TRAPEZIUS MIDDLE FIBERS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/bXwXW2WUCj.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdo2vCtq4F3E",
+    "name": "Right Cross. Boxing",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "SHOULDERS, BICEPS, TRICEPS",
+    "target": "",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/NenhkXpa3a.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hdsGcuzs4WrV",
+    "name": "Self Assisted Inverted Pullover",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK, WAIST",
+    "target": "RECTUS ABDOMINIS, LATISSIMUS DORSI",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/n4N7gfo3Ph.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2he2doZNpmXkX",
+    "name": "Ankle - Plantar Flexion - Articulations",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/cnT7tKYHyl.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hek6i3exMARx",
+    "name": "Elbow - Flexion - Articulations",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "UPPER ARMS",
+    "target": "BRACHIALIS, TRICEPS BRACHII, BICEPS BRACHII",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/vIYXc6qul1.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hezAZ6CdkAcM",
+    "name": "Alternate Punching ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "SHOULDERS, TRICEPS, FULL BODY",
+    "target": "DEEP HIP EXTERNAL ROTATORS, LATISSIMUS DORSI, BRACHIALIS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/5XjzsH1SBh.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hfnnXz9shkBi",
+    "name": "Lying Lower Back Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK, HIPS",
+    "target": "ERECTOR SPINAE",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/9w9vjAYwal.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hftBVLiXgtRQ",
+    "name": "Wide Grip Pull-Up",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "BACK",
+    "target": "LATISSIMUS DORSI",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/KTxTtuwOqD.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hfYD2sH4TRCH",
+    "name": "Hyperextension",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "WAIST",
+    "target": "ERECTOR SPINAE",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/IAiYz72hHZ.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hG9pRT55cGVk",
+    "name": "Calves stretch",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "SOLEUS, GASTROCNEMIUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/UnJNN2dVOJ.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hGbCptD8Nosk",
+    "name": "Neck Side Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "NECK",
+    "target": "STERNOCLEIDOMASTOID",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/OMp0wahtvC.jpg",
+    "images": [],
+    "instructions": []
+  },
+  {
+    "id": "exr_41n2hGD4omjWVnbS",
+    "name": "Calves Stretch ",
+    "equipment": "BODY WEIGHT",
+    "bodyPart": "CALVES",
+    "target": "GASTROCNEMIUS",
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/b2DBiTv92c.jpg",
+    "images": [],
+    "instructions": []
+  }
+]

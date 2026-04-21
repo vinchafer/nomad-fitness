@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const w = require\\(''/c/Claude Projekte/05 - Nomad Fitness/data/workouts.json''\\); console.log\\(''Total workouts:'', w.length\\); console.log\\(''Categories:'', [...new Set\\(w.map\\(x=>x.category\\)\\)]\\); console.log\\(''Levels:'', [...new Set\\(w.map\\(x=>x.level\\)\\)]\\); console.log\\(''With youtubeId:'', w.filter\\(x=>x.youtubeId\\).map\\(x=>x.id\\)\\)\")",
+      "Bash(node:*)",
+      "Bash(cd:*)",
+      "Bash(vercel --prod)",
+      "Bash(npx vercel:*)",
+      "Bash(vercel:*)",
+      "Bash(npm install:*)",
+      "Read(//c/Claude Projekte/04 - SwissSME Leadsearcher/ai-company-radar/**)",
+      "Bash(printf '\\\\n\\\\nai-company-radar\\\\n\\\\n\\\\n')"
+    ]
+  }
+}

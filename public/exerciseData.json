@@ -1,0 +1,605 @@
+{
+  "4-7-8 Breathing": null,
+  "Alternate Nostril Breathing": null,
+  "Archer Push-Ups": null,
+  "Arm Circles": null,
+  "Arm Circles Dynamic": null,
+  "Assisted Squats (hold chair)": null,
+  "Belly Breathing": null,
+  "Bicycle Crunches": null,
+  "Bird Dog": {
+    "gifUrl": "https://wger.de/media/exercise-images/1572/3d14e761-a73d-49da-8804-f3016a7573ff.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "Abs"
+    ],
+    "_source": "gym",
+    "_matchedName": "Bird Dog",
+    "_score": 1
+  },
+  "Boat Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483071/yoga-api/1_txmirf.png",
+    "images": [],
+    "instructions": [
+      "From a seated position the feet are lifted up so that the thighs are angled about 45-50 degrees relative to the earth.  The tailbone is lengthened into the earth and the pubis pulls toward the navel.  The shoulder blades are spread across the back and the hands reach around the back of the calves, with legs pulled towards the body.  The chin is tipped slightly toward the sternum so that the base of the skull lifts lightly away from the back of the neck.  Gaze is forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Boat",
+    "_score": 0.53
+  },
+  "Boat Pose Hold": null,
+  "Body Scan Breath": null,
+  "Bodyweight Squats": null,
+  "Box Breathing": null,
+  "Breath & Bridge": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483074/yoga-api/4_qq6nxw.png",
+    "images": [],
+    "instructions": [
+      "From a supine position, on your back, the hips are pressed up with the heels of the feet rooted into the earth close to the sits bones.  The toes are actively lifted and the pelvis tucked.  The thighs are parallel to the earth and the fingers are interlaced under the body with the ribcage lifted and the heart open.  The back of the neck rests on the earth.  The gaze is to the sky."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Bridge",
+    "_score": 0.54
+  },
+  "Breath & Roll Down": null,
+  "Bridge Hold": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483074/yoga-api/4_qq6nxw.png",
+    "images": [],
+    "instructions": [
+      "From a supine position, on your back, the hips are pressed up with the heels of the feet rooted into the earth close to the sits bones.  The toes are actively lifted and the pelvis tucked.  The thighs are parallel to the earth and the fingers are interlaced under the body with the ribcage lifted and the heart open.  The back of the neck rests on the earth.  The gaze is to the sky."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Bridge",
+    "_score": 0.56
+  },
+  "Bridge Lift & Lower": null,
+  "Bridge Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483074/yoga-api/4_qq6nxw.png",
+    "images": [],
+    "instructions": [
+      "From a supine position, on your back, the hips are pressed up with the heels of the feet rooted into the earth close to the sits bones.  The toes are actively lifted and the pelvis tucked.  The thighs are parallel to the earth and the fingers are interlaced under the body with the ribcage lifted and the heart open.  The back of the neck rests on the earth.  The gaze is to the sky."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Bridge",
+    "_score": 0.56
+  },
+  "Bridge with March": null,
+  "Burpees": null,
+  "Butterfly Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483074/yoga-api/5_i64gif.png",
+    "images": [],
+    "instructions": [
+      "In sitting position, bend both knees and drop the knees to each side, opening the hips.  Bring the soles of the feet together and bring the heels as close to the groin as possible, keeping the knees close to the ground.  The hands may reach down and grasp and maneuver the feet so that the soles are facing upwards and the heels and little toes are connected.  The shoulders should be pulled back and no rounding of the spine."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Butterfly",
+    "_score": 0.59
+  },
+  "Calf Raises": null,
+  "Cat-Cow Stretch": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/UnJNN2dVOJ.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "SOLEUS, GASTROCNEMIUS"
+    ],
+    "_edbName": "Calves stretch",
+    "_score": 0.4
+  },
+  "Caterpillar": null,
+  "Chair Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483078/yoga-api/9_ewvoun.png",
+    "images": [],
+    "instructions": [
+      "From a standing position, the feet are together and rooted into the earth with toes actively lifted.  The knees are bent and the weight of the body is on the heels of the feet.  The pelvis is tucked in and the ribcage is lifted.  The neck is a natural extension of the spine.  The arms are lifted up toward the sky with the elbows straight and the biceps by the ears.  The hands can be together or separated and facing each other with the fingers spread wide.  The gaze is forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Chair",
+    "_score": 0.55
+  },
+  "Chest Opener": null,
+  "Child's Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483079/yoga-api/10_wzpo85.png",
+    "images": [],
+    "instructions": [
+      "From a kneeling position, the toes and knees are together with most of the weight of the body resting on the heels of the feet.  The arms are extended back resting alongside the legs.  The forehead rests softly onto the earth.  The gaze is down and inward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Child's Pose",
+    "_score": 1
+  },
+  "Child's Pose Hip Opener": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483079/yoga-api/10_wzpo85.png",
+    "images": [],
+    "instructions": [
+      "From a kneeling position, the toes and knees are together with most of the weight of the body resting on the heels of the feet.  The arms are extended back resting alongside the legs.  The forehead rests softly onto the earth.  The gaze is down and inward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Child's Pose",
+    "_score": 0.56
+  },
+  "Child's Pose Rest": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483079/yoga-api/10_wzpo85.png",
+    "images": [],
+    "instructions": [
+      "From a kneeling position, the toes and knees are together with most of the weight of the body resting on the heels of the feet.  The arms are extended back resting alongside the legs.  The forehead rests softly onto the earth.  The gaze is down and inward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Child's Pose",
+    "_score": 0.71
+  },
+  "Cobra Pose": null,
+  "Cool down stretch": null,
+  "Corkscrew": null,
+  "Criss Cross": null,
+  "Dead Bug": null,
+  "Diamond Push-Ups": null,
+  "Diaphragmatic Breathing": null,
+  "Dolphin Push-Ups": null,
+  "Donkey Kicks": null,
+  "Double Leg Kick": null,
+  "Double Leg Stretch": null,
+  "Downward Dog": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483081/yoga-api/15_vkviqn.png",
+    "images": [],
+    "instructions": [
+      "From downward_dog.html the legs are straight with the sits bones tilted up and reaching for the sky.  The feet are flat with the heels firmly rooted.  One palm is flat with the knuckles evenly pressed into the earth.  The other hand reaches under the body and grasps the opposite ankle.  The spine is long and the heart is open toward the sky.  The neck is loose and the crown of the head is relaxed toward the earth.  The gaze is toward the center."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Downward-Facing Dog",
+    "_score": 0.59
+  },
+  "Dragon Flag (progression)": null,
+  "Dragon Pose left": null,
+  "Dragon Pose right": null,
+  "Eagle Pose left": null,
+  "Eagle Pose right": null,
+  "Fire Hydrants": null,
+  "Fire Log Pose": null,
+  "Frog Pose": null,
+  "Front Raise (isometric)": null,
+  "Glute Bridges": null,
+  "Half Monkey left": null,
+  "Half Monkey right": null,
+  "Half Moon Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483085/yoga-api/21_etedlp.png",
+    "images": [],
+    "instructions": [
+      "From a standing position one leg is straight while the other is extended back parallel to the earth (or a little above parallel) and one hand is on the earth (beyond the little-toe side of the foot, about 12 inches) while the other hand is extended up towards the sky.  The shoulder blades are squeezed together and the fingers move outward in opposing directions.  The weight of the body is supported mostly by the standing leg while the bottom hand has very little weight on it but is used intelligently to regulate balance.  The upper torso is rotated open to the sky.  Both hips are externally rotated.  Energy is extended actively through the flexed toes to keep the raised leg strong.  The inner ankle of the standing foot is lifted strongly upward, as if drawing energy from the earth.  The sacrum and scapulae are firmly pressed against the back torso and lengthen the coccyx toward the raised foot.  The gaze is either up or down, depending on the condition of the neck.  If injured the gaze is down."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Half-Moon",
+    "_score": 0.69
+  },
+  "Handstand Hold (against wall)": null,
+  "Happy Baby": null,
+  "Happy Baby Pose": null,
+  "High Knees": null,
+  "Hip Circles": {
+    "gifUrl": "https://wger.de/media/exercise-images/1862/93d993f8-1d8c-4e21-99c6-08b2fe424a17.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Hip Circles",
+    "_score": 1
+  },
+  "Hip Flexor Stretch": {
+    "gifUrl": "https://wger.de/media/exercise-images/1867/767631e5-10d2-46b8-b03f-cc298f96963b.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Hip Flexor Stretch",
+    "_score": 1
+  },
+  "Hip Stretch": {
+    "gifUrl": "https://wger.de/media/exercise-images/1867/767631e5-10d2-46b8-b03f-cc298f96963b.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Hip Flexor Stretch",
+    "_score": 0.58
+  },
+  "Hip Tilts": null,
+  "Hollow Body Hold": null,
+  "Hundred (modified)": null,
+  "Imprint & Release": null,
+  "Inchworm Walk-Out": null,
+  "Inner Thigh Squeeze": null,
+  "Jackknife Prep": null,
+  "Jump Squats": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/YfCTLiECo2.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "GLUTEUS MAXIMUS, QUADRICEPS"
+    ],
+    "_source": "gym",
+    "_matchedName": "Jump Squat ",
+    "_score": 0.67
+  },
+  "Jumping Jacks": null,
+  "Knee Drops": null,
+  "Knee Squeezes": null,
+  "Knee-to-Chest Stretch": null,
+  "L-Sit Hold": null,
+  "Lateral Arm Raises (isometric)": null,
+  "Lateral Breathing": null,
+  "Lateral Hops": null,
+  "Leg Pull Front Prep": null,
+  "Leg Raises": {
+    "gifUrl": "https://wger.de/media/exercise-images/125/Leg-raises-2.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "Abs"
+    ],
+    "_source": "gym",
+    "_matchedName": "Leg Raises, Lying",
+    "_score": 0.69
+  },
+  "Legs Up the Wall": null,
+  "Lizard Pose": null,
+  "Low Lunge both sides": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483086/yoga-api/23_k2jccj.png",
+    "images": [],
+    "instructions": [
+      "The front knee is bent in a 90-degree angle directly above the ankle and the back knee is resting on the earth with the top of the back foot pressed firmly into the earth.  The hips are squared and pressed forward.  The inner thighs scissor towards each other.  The pelvis is tucked under to protect the low back.  The ribcage is lifted.  The arms are lifted.  The hands can be together or separated and facing each other with the fingers spread wide.  The gaze is forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Low Lunge",
+    "_score": 0.53
+  },
+  "Lunges": {
+    "gifUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Lunges",
+    "_score": 1
+  },
+  "March in Place": null,
+  "Melting Heart Pose": null,
+  "Mermaid Stretch": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/AcGb20UoJg.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "SOLEUS"
+    ],
+    "_edbName": "Peroneals Stretch ",
+    "_score": 0.49
+  },
+  "Modified Plank (on knees)": null,
+  "Mountain Climbers": null,
+  "Mountain Pose (Tadasana)": null,
+  "Mountain Pose with Breath": null,
+  "Neck Rolls": null,
+  "Nordic Curls": null,
+  "Pelvic Floor Pulses": null,
+  "Pelvic Tilts": null,
+  "Pigeon Pose Prep left": null,
+  "Pigeon Pose Prep right": null,
+  "Pigeon Pose left": null,
+  "Pigeon Pose right": null,
+  "Pike Push-Ups": null,
+  "Planche Lean": null,
+  "Plank": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483088/yoga-api/26_mxkzlo.png",
+    "images": [],
+    "instructions": [
+      "The body is parallel to the earth.  The weight of the body is supported by straight arms and active toes.  The abdomen is pulled up towards the spine and the pelvis is tucked in.  The neck is a natural extension of the spine and the chin is slightly tucked.  The palms are flat and the elbows are close to the side body.  The joints are stacked with the wrists, elbows and shoulders in a straight line perpendicular to the earth.  The gaze follows the spine and the eyes are focused down."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Plank",
+    "_score": 1
+  },
+  "Plank to Down Dog": null,
+  "Progressive Relaxation": null,
+  "Push-Up to Rotation": null,
+  "Push-Up with Control": null,
+  "Push-Ups": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/TLX9vGr1dx.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "INFRASPINATUS, LATISSIMUS DORSI, TRAPEZIUS LOWER FIBERS, TERES MINOR, TERES MAJOR, TRAPEZIUS MIDDLE FIBERS"
+    ],
+    "_edbName": "Chin-ups",
+    "_score": 0.45
+  },
+  "Pyramid Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483089/yoga-api/28_uu58tt.png",
+    "images": [],
+    "instructions": [
+      "From a standing position with one leg forward and one back lean the torso forward at the crease of the hip joint.  Stop when the torso is parallel to the floor.  Press the fingertips or flat palms to the floor on either side of the front foot, maintaining a straight elongated spine.  If it isn’t possible to touch the floor, or to maintain a straight spine, support the hands on a pair of blocks.  Press the thighs back and lengthen the torso forward, lifting up through the top of the sternum.  Then, as flexibility allows, bring the front torso closer to the top of the thigh without rounding the spine.  Eventually the long front torso will rest down on the thigh.  The gaze is down."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Pyramid",
+    "_score": 0.57
+  },
+  "Reclined Bound Angle": null,
+  "Reclined Butterfly": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483074/yoga-api/5_i64gif.png",
+    "images": [],
+    "instructions": [
+      "In sitting position, bend both knees and drop the knees to each side, opening the hips.  Bring the soles of the feet together and bring the heels as close to the groin as possible, keeping the knees close to the ground.  The hands may reach down and grasp and maneuver the feet so that the soles are facing upwards and the heels and little toes are connected.  The shoulders should be pulled back and no rounding of the spine."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Butterfly",
+    "_score": 0.55
+  },
+  "Reverse Lunge + Knee Drive": null,
+  "Reverse Lunges": {
+    "gifUrl": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Reverse lunges",
+    "_score": 1
+  },
+  "Reverse Snow Angels": null,
+  "Revolved Lunge left": null,
+  "Revolved Lunge right": null,
+  "Rib Cage Breathing": null,
+  "Ribcage Arms": null,
+  "Roll Up": null,
+  "Rolling Like a Ball": null,
+  "Savasana": null,
+  "Savasana with Breath Awareness": null,
+  "Saw": null,
+  "Scapular Squeeze": null,
+  "Scissors": null,
+  "Seated Forward Fold": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483091/yoga-api/30_gumpl3.png",
+    "images": [],
+    "instructions": [
+      "From a seated position with the sits bones rooted into the earth the legs extend forward to the degree that the chest and thighs can stay connected.  The fingers wrap around the toes.  The upper torso folds forward at the crease of the hips with the spine long.  The gaze is forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Seated Forward Bend",
+    "_score": 0.65
+  },
+  "Seated Spinal Twist": null,
+  "Seated Spinal Twist left": null,
+  "Seated Spinal Twist right": null,
+  "Shoulder Rolls": null,
+  "Shoulder Taps": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483091/yoga-api/33_r7motl.png",
+    "images": [],
+    "instructions": [
+      "From a supine position, the upper back is resting on the earth with the hips straight up towards the sky.  The torso is perpendicular to the earth.  The legs are fully extended and the toes are active.  The hands are either supporting the lower back or extended up by the side body in matchstick.  The neck is flat on the earth and the chin is tucked in.  The gaze is inward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Shoulder Stand",
+    "_score": 0.54
+  },
+  "Side Angle Pose": null,
+  "Side Kick Forward & Back": null,
+  "Side Kick Up & Down": null,
+  "Side Leg Lift Series": null,
+  "Side Plank (modified)": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483093/yoga-api/34_qle5tp.png",
+    "images": [],
+    "instructions": [
+      "From an arm balance position the weight of the body is supported on one side and distributed equally between the bottom arm and foot while the other (top) arm lifts with fingers spread wide and the other (top) foot stacks on top.  The grounded (bottom) foot is flat and gripping the earth from the outside edge of the foot.  If flexibility of the foot is limited then instead of gripping the earth with a flat foot, the weight of the body is balanced on the side edge of the foot that is flexed instead of flat.  The arm supporting the weight of the body and the grounded foot actively press into the floor as the shoulder blades firm against the back and then widen away from the spine drawing toward the tailbone.  Bandhas are engaged to maintain balance and stability.  The crown of the head reaches away from the neck and the gaze is up towards the hand."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Side Plank",
+    "_score": 0.66
+  },
+  "Side Plank left": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483093/yoga-api/34_qle5tp.png",
+    "images": [],
+    "instructions": [
+      "From an arm balance position the weight of the body is supported on one side and distributed equally between the bottom arm and foot while the other (top) arm lifts with fingers spread wide and the other (top) foot stacks on top.  The grounded (bottom) foot is flat and gripping the earth from the outside edge of the foot.  If flexibility of the foot is limited then instead of gripping the earth with a flat foot, the weight of the body is balanced on the side edge of the foot that is flexed instead of flat.  The arm supporting the weight of the body and the grounded foot actively press into the floor as the shoulder blades firm against the back and then widen away from the spine drawing toward the tailbone.  Bandhas are engaged to maintain balance and stability.  The crown of the head reaches away from the neck and the gaze is up towards the hand."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Side Plank",
+    "_score": 0.7
+  },
+  "Side Plank right": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483093/yoga-api/34_qle5tp.png",
+    "images": [],
+    "instructions": [
+      "From an arm balance position the weight of the body is supported on one side and distributed equally between the bottom arm and foot while the other (top) arm lifts with fingers spread wide and the other (top) foot stacks on top.  The grounded (bottom) foot is flat and gripping the earth from the outside edge of the foot.  If flexibility of the foot is limited then instead of gripping the earth with a flat foot, the weight of the body is balanced on the side edge of the foot that is flexed instead of flat.  The arm supporting the weight of the body and the grounded foot actively press into the floor as the shoulder blades firm against the back and then widen away from the spine drawing toward the tailbone.  Bandhas are engaged to maintain balance and stability.  The crown of the head reaches away from the neck and the gaze is up towards the hand."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Side Plank",
+    "_score": 0.69
+  },
+  "Single Leg Circles": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "GLUTEUS MAXIMUS, QUADRICEPS"
+    ],
+    "_edbName": "Single Leg Squat ",
+    "_score": 0.58
+  },
+  "Single Leg Deadlift": {
+    "gifUrl": "https://wger.de/media/exercise-images/1736/aa724cc5-c485-4f3e-9d2a-0c6ae4baefbe.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "_source": "gym",
+    "_matchedName": "Single-Leg Deadlift with Dumbbell",
+    "_score": 0.63
+  },
+  "Single Leg Glute Bridge": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "GLUTEUS MAXIMUS, QUADRICEPS"
+    ],
+    "_edbName": "Single Leg Squat ",
+    "_score": 0.46
+  },
+  "Single Leg Stand": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "GLUTEUS MAXIMUS, QUADRICEPS"
+    ],
+    "_source": "gym",
+    "_matchedName": "Single Leg Squat ",
+    "_score": 0.63
+  },
+  "Single Leg Stretch": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "GLUTEUS MAXIMUS, QUADRICEPS"
+    ],
+    "_edbName": "Single Leg Squat ",
+    "_score": 0.62
+  },
+  "Single-Leg Squats (Pistol Squat progression)": {
+    "gifUrl": "https://cdn.exercisedb.dev/media/w/images/MosYINt7dV.jpg",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [
+      "GLUTEUS MAXIMUS, QUADRICEPS"
+    ],
+    "_edbName": "Single Leg Squat ",
+    "_score": 0.51
+  },
+  "Sleeping Swan left": null,
+  "Sleeping Swan right": null,
+  "Sphinx Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483092/yoga-api/35_dytwvz.png",
+    "images": [],
+    "instructions": [
+      "From a prone position with the pelvic bowl is firmly contracted interiorly towards the center line of the body while the pubis is tucked under.  The legs are extended back and the tops of the feet are flat.  The palms are flat and the elbows are on the mat, stacked right below the shoulders.  On an inhalation, lift the sternum and extend the neck away from shoulders with the elbows, palms and pelvic bone firmly attached to the mat."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Sphinx",
+    "_score": 0.56
+  },
+  "Spine Stretch": {
+    "gifUrl": "https://wger.de/media/exercise-images/1861/0ffe4e99-71ad-47fb-b98c-1f243faa0499.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Side stretch",
+    "_score": 0.55
+  },
+  "Spine Stretch Forward": null,
+  "Spine Twist": null,
+  "Spine Twist Seated": null,
+  "Squat Jumps": null,
+  "Squats": null,
+  "Standing Forward Fold": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483093/yoga-api/38_yb3thk.png",
+    "images": [],
+    "instructions": [
+      "From a standing position, the body is folded over at the crease of the hip with the spine long.  The neck is relaxed and the crown of the head is towards the earth.  The feet are rooted into the earth with the toes actively lifted.  The spine is straight.  The ribcage is lifted.  The chest and the thighs are connected.  The sacrum lifts up toward the sky in dog tilt.  The fingertips are resting on the earth next to the toes.  The gaze is down or slightly forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Standing Forward Bend",
+    "_score": 0.66
+  },
+  "Standing Roll Down": null,
+  "Standing Side Stretch": {
+    "gifUrl": "https://wger.de/media/exercise-images/1861/0ffe4e99-71ad-47fb-b98c-1f243faa0499.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Side stretch",
+    "_score": 0.67
+  },
+  "Star Jumps": null,
+  "Step Lunges": {
+    "gifUrl": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
+    "images": [],
+    "instructions": [],
+    "targetMuscles": [],
+    "_source": "gym",
+    "_matchedName": "Lunges",
+    "_score": 0.56
+  },
+  "Sumo Squats": null,
+  "Sun Salutation A": null,
+  "Superman": null,
+  "Superman Pull": null,
+  "Supine Twist": null,
+  "Supine Twist left": null,
+  "Supine Twist right": null,
+  "Swan Prep": null,
+  "Swimming": null,
+  "Teaser": null,
+  "Teaser Prep": null,
+  "The Hundred": null,
+  "Thread the Needle": null,
+  "Tree Pose": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483094/yoga-api/41_veknug.png",
+    "images": [],
+    "instructions": [
+      "From a standing position, one foot is rooted into the earth with the opposite heel rooted into the inner thigh with the toes pointing towards the earth.  The pelvis and the chin are tucked in.  The arms are lifted above the head with the palms together in prayer position.  The gaze is forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Tree",
+    "_score": 0.53
+  },
+  "Tree Pose left": null,
+  "Tree Pose right": null,
+  "Tricep Dips (using chair/bed)": null,
+  "Tricep Push-Ups": null,
+  "Twisted Root left": null,
+  "Twisted Root right": null,
+  "Upward Dog": {
+    "gifUrl": "https://res.cloudinary.com/dko1be2jy/image/upload/fl_sanitize/v1676483096/yoga-api/43_m3nxjk.png",
+    "images": [],
+    "instructions": [
+      "The body is in a prone position parallel to the earth.  The weight of the body is supported equally by the straight arms and the tops of the feet which press firmly into the earth.  The shoulders are rotated back and down.  The ribcage is lifted and pulled thru to the front in a slight upper thoracic backbend.  The joints are stacked with the wrists, elbows and shoulders in a straight-line.  The neck is a natural extension of the spine and the chin is slightly tucked.  The abdomen is pulled up towards the spine.  The palms are flat and the elbows are close to the side body.  The gaze is forward."
+    ],
+    "targetMuscles": [],
+    "_source": "yoga",
+    "_matchedName": "Upward-Facing Dog",
+    "_score": 0.58
+  },
+  "Wall Angels": null,
+  "Wall Push-Ups": null,
+  "Warm-up Roll Down": null,
+  "Warrior I both sides": null,
+  "Warrior II both sides": null,
+  "Warrior III left": null,
+  "Warrior III right": null
+}

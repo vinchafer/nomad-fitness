@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-cream: #F5F0E8;
+  --color-sage: #5C8A6E;
+  --color-terracotta: #D4724A;
+  --color-dark: #2D3748;
+  --color-muted: #718096;
+  --color-border: #E2D9CC;
+  --color-card: #FFFFFF;
+  --color-yoga-blue: #4A6FA5;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-dark);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-muted);
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) var(--color-cream);
+}
+
+/* Focus styles */
+*:focus-visible {
+  outline: 2px solid var(--color-sage);
+  outline-offset: 2px;
+}
+
+/* Selection */
+::selection {
+  background-color: rgba(92, 138, 110, 0.2);
+  color: var(--color-dark);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* ── Exercise illustration animations ──────────────────────────────────── */
+@keyframes illus-breathe {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-2px); }
+}
+@keyframes illus-belly-pulse {
+  0%, 100% { transform: scaleX(1) scaleY(1); }
+  50%       { transform: scaleX(1.04) scaleY(1.03); }
+}
+@keyframes illus-sway {
+  0%, 100% { transform: rotate(-1deg); transform-origin: center bottom; }
+  50%       { transform: rotate(1deg);  transform-origin: center bottom; }
+}
+@keyframes illus-knee-left {
+  0%, 49%, 100% { transform: translateY(0); }
+  25%            { transform: translateY(-10px); }
+}
+@keyframes illus-knee-right {
+  0%, 50%, 100% { transform: translateY(0); }
+  75%            { transform: translateY(-10px); }
+}
+.anim-breathe  { animation: illus-breathe    2s ease-in-out infinite; }
+.anim-belly    { animation: illus-belly-pulse 3s ease-in-out infinite; }
+.anim-sway     { animation: illus-sway        2s ease-in-out infinite; }
+.anim-knee-l   { animation: illus-knee-left   0.8s ease-in-out infinite; }
+.anim-knee-r   { animation: illus-knee-right  0.8s ease-in-out infinite; }

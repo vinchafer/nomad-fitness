@@ -1,0 +1,21 @@
+Vercel Environment Variables — Nomad Fitness (Firebase)
+=========================================================
+
+Add the following variables in the Vercel Dashboard under:
+Project Settings → Environment Variables → Add New
+
+Activate for: Production, Preview, Development
+
+---
+
+NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyBzZuLzyL1EmpQgB1y1iyD0FV0NJcG5pKI
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=nomad-fitness-a817b.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=nomad-fitness-a817b
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=nomad-fitness-a817b.firebasestorage.app
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=430442182314
+NEXT_PUBLIC_FIREBASE_APP_ID=1:430442182314:web:1ce87ed216a0d0c6aec2d3
+
+---
+
+After adding all variables, trigger a new deploy:
+  npx vercel deploy --prod
