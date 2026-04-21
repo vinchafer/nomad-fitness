@@ -24,13 +24,25 @@ export default function ExerciseImage({ exerciseName, phase, className = '', pri
   // ✅ Professionelle hochwertige Übungsbilder aus unserer kuratierten Datenbank
   const exercise = exerciseImages[exerciseName]
   
-  // Richtiges Bild je Phase auswählen
+  // Richtiges Bild je Phase auswählen - 4 Stufen System
   let imageUrl: string
   if (exercise) {
-    imageUrl = phase === 'start' ? exercise.start : exercise.execution
+    switch (phase) {
+      case 'start':
+        imageUrl = exercise.start
+        break
+      case 'mid':
+        imageUrl = exercise.mid1
+        break
+      case 'end':
+        imageUrl = exercise.end
+        break
+      default:
+        imageUrl = exercise.start
+    }
   } else {
     // Fallback für nicht hinterlegte Übungen - generisches professionelles Fitness Bild
-    imageUrl = `https://images.pexels.com/photos/${phase === 'start' ? '3822906' : '1552242'}/pexels-photo-${phase === 'start' ? '3822906' : '1552242'}.jpeg?auto=compress&cs=tinysrgb&w=600&h=450&dpr=1.5`
+    imageUrl = `https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=600&h=450&q=80`
   }
 
   // Generischer Fallback für Fehlerfälle

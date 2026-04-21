@@ -29,14 +29,25 @@ export default function ExerciseImages({ exerciseName, muscles, description, com
   const scrollRef = useRef<HTMLDivElement>(null)
   const FRAME_STEP = 152
 
-  // ✅ PROFESSIONELLE BILDER
+  // ✅ PROFESSIONELLE BILDER - 4 Phasen System
   const exercise = exerciseImages[exerciseName]
   
   const getImageUrl = (index: number) => {
     if (exercise) {
-      return index === 0 ? exercise.start : exercise.execution
+      switch (index) {
+        case 0:
+          return exercise.start
+        case 1:
+          return exercise.mid1
+        case 2:
+          return exercise.mid2
+        case 3:
+          return exercise.end
+        default:
+          return exercise.start
+      }
     }
-    return `https://images.pexels.com/photos/${index === 0 ? '3822906' : '1552242'}/pexels-photo-${index === 0 ? '3822906' : '1552242'}.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1.2`
+    return `https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=400&h=300&q=80`
   }
 
   useEffect(() => {
