@@ -1,8 +1,8 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import { exerciseImageMap, type ExerciseIllustration } from './illustrations/exerciseImageMap'
-import { GenericMale } from './illustrations/GenericMale'
+import Image from 'next/image'
+import { exerciseImages } from '@/lib/exerciseImages'
 
 const LABELS = ['Start', 'Bewegung', 'Ziel'] as const
 
@@ -25,11 +25,19 @@ interface ExerciseImagesProps {
 export default function ExerciseImages({ exerciseName, muscles, description, commonMistakes, tip }: ExerciseImagesProps) {
   const [apiData, setApiData] = useState<ApiExerciseData | null | undefined>(undefined)
   const [accordionOpen, setAccordionOpen] = useState(false)
-  const entry: ExerciseIllustration = exerciseImageMap[exerciseName] ?? { character: 'male' as const, ...GenericMale }
-  const frames = [entry.start, entry.mid, entry.end]
   const [activeDot, setActiveDot] = useState(0)
   const scrollRef = useRef<HTMLDivElement>(null)
   const FRAME_STEP = 152
+
+  // ✅ PROFESSIONELLE BILDER
+  const exercise = exerciseImages[exerciseName]
+  
+  const getImageUrl = (index: number) => {
+    if (exercise) {
+      return index === 0 ? exercise.start : exercise.execution
+    }
+    return `https://images.pexels.com/photos/${index === 0 ? '3822906' : '1552242'}/pexels-photo-${index === 0 ? '3822906' : '1552242'}.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&dpr=1.2`
+  }
 
   useEffect(() => {
     // Load exerciseData.json from public folder
@@ -74,71 +82,30 @@ export default function ExerciseImages({ exerciseName, muscles, description, com
         </div>
       )}
 
-      {/* GIF from API */}
-      {hasGif && (
-        <div className="flex justify-center">
-          <img
-            src={apiData!.gifUrl}
-            alt={exerciseName}
-            loading="lazy"
-            className="rounded-xl max-w-xs mx-auto border border-border shadow-sm"
-          />
-        </div>
-      )}
-
-      {/* Two images side by side from API */}
-      {!hasGif && hasImages && (
-        <div className="flex gap-2 justify-center">
-          {apiData!.images!.slice(0, 2).map((src, i) => (
-            <img
-              key={i}
-              src={src}
-              alt={`${exerciseName} ${i + 1}`}
-              loading="lazy"
-              className="rounded-xl w-1/2 max-w-[160px] border border-border shadow-sm object-cover"
-            />
-          ))}
-        </div>
-      )}
-
-      {/* SVG Fallback — only show if no API content */}
-      {!showApiContent && (
-        <>
-          <div
-            ref={scrollRef}
-            onScroll={onScroll}
-            className="flex gap-2 overflow-x-auto snap-x snap-mandatory scrollbar-hide"
-          >
-            {frames.map((svg, i) => (
-              <div key={i} className="snap-start flex-none" style={{ width: 144 }}>
-                <div
-                  className="relative rounded-xl overflow-hidden border border-border bg-cream"
-                  style={{ paddingBottom: '75%' }}
-                >
-                  <div className="absolute inset-0 flex items-center justify-center p-0.5">
-                    {svg}
-                  </div>
-                </div>
-                <p className="text-xs text-muted text-center mt-1.5 font-medium tracking-wide">
-                  {LABELS[i]}
-                </p>
-              </div>
-            ))}
-          </div>
-          <div className="flex justify-center items-center gap-1.5">
-            {LABELS.map((label, i) => (
-              <button
-                key={i}
-                onClick={() => scrollToFrame(i)}
-                aria-label={label}
-                className={`h-1.5 rounded-full transition-all duration-200 ${
-                  i === activeDot ? 'w-4 bg-sage' : 'w-1.5 bg-border'
-                }`}
+      {/* ✅ PROFESSIONELLE ÜBUNGSBILDER */}
+      <div className="flex gap-2 overflow-x-auto snap-x snap-mandatory scrollbar-hide">
+        {LABELS.map((label, i) => (
+          <div key={i} className="snap-start flex-none" style={{ width: 144 }}>
+            <div
+              className="relative rounded-xl overflow-hidden border border-border bg-cream shadow-sm"
+              style={{ paddingBottom: '75%' }}
+            >
+              <Image
+                src={getImageUrl(i)}
+                alt={`${exerciseName} ${label}`}
+                fill
+                className="object-cover object-center"
+                sizes="144px"
+                quality={85}
+                loading="lazy"
               />
-            ))}
+            </div>
+            <p className="text-xs text-muted text-center mt-1.5 font-medium tracking-wide">
+              {label}
+            </p>
           </div>
-        </>
-      )}
+        ))}
+      </div>
 
       {/* Schritt-für-Schritt Accordion */}
       {(description || (hasInstructions && apiData!.instructions!.length > 0) || commonMistakes?.length || tip) && (
