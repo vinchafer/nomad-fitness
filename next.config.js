@@ -8,6 +8,12 @@ const nextConfig = {
         port: '',
         pathname: '/photos/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+        port: '',
+        pathname: '/photo-**',
+      },
     ],
   },
 
@@ -18,7 +24,7 @@ const nextConfig = {
         headers: [
           {
             key: 'Content-Security-Policy',
-            value: "frame-src 'self' https://www.youtube.com https://www.youtube-nocookie.com; img-src 'self' data: https://images.pexels.com;",
+            value: "frame-src 'self' https://www.youtube.com https://www.youtube-nocookie.com; img-src 'self' data: https://images.pexels.com https://images.unsplash.com;",
           },
         ],
       },
